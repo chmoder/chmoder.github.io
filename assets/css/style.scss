@@ -8,3 +8,22 @@ header li {
     height: 40px;
     list-style-type: none;
 }
+
+.wrapper {
+    width: 100%;
+    display: flex;
+}
+
+header {
+    float: auto;
+    position: auto;
+    flex: 1;
+}
+
+section {
+    float: auto;
+    position: auto;
+    width: auto;
+    overflow: hidden;
+    flex: 1;
+}
