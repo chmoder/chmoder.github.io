@@ -9,10 +9,15 @@ header li {
     list-style-type: none;
 }
 
-.wrapper {
-    width: 100%;
+body {
     display: flex;
+    min-height: 100vh;
     flex-direction: column;
+}
+
+.wrapper {
+  display: flex;
+  flex: 1;
 }
 
 header {
