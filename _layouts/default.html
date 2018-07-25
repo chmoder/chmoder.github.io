@@ -18,7 +18,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | escape | default: site.github.project_tagline }}</p>
 
         <li><a href="/">Home</a></li>
         <li><a href="/contact">Contact Me</a></li>
