@@ -20,6 +20,7 @@ header {
     flex: 1;
     flex: 0 0 12em;
     order: -1;
+    position: static;
 }
 
 section {
@@ -27,4 +28,5 @@ section {
     width: auto;
     flex: 1;
     order: 0;
+    position: static;
 }
