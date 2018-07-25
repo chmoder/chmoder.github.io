@@ -12,18 +12,19 @@ header li {
 .wrapper {
     width: 100%;
     display: flex;
+    flex-direction: column;
 }
 
 header {
-    float: auto;
-    position: auto;
+    float: none;
     flex: 1;
+    flex: 0 0 12em;
+    order: -1;
 }
 
 section {
-    float: auto;
-    position: auto;
+    float: none;
     width: auto;
-    overflow: hidden;
     flex: 1;
+    order: 0;
 }
