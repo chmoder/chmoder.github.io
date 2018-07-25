@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+header li {
+    width: auto;
+    float: none;
+    height: 40px;
+}
