@@ -36,3 +36,14 @@ section {
     position: static;
     margin-left: 5em;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: row;
+    }
+    header ul li {
+        display: inline;
+    }
+}
