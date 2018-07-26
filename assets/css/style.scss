@@ -35,5 +35,10 @@ section {
     }
     header li {
         display: inline;
+        border: none;
+        padding-right: .5em;
+    }
+    section {
+        border: none;
     }
 }
