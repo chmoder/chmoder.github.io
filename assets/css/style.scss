@@ -33,11 +33,17 @@ section {
     .wrapper {
         flex-direction: column;
     }
+
     header li {
         display: inline;
         border: none;
         padding-right: .5em;
     }
+
+    header {
+        flex: 0 0 0;
+    }
+
     section {
         border: none;
         margin-left: 0;
