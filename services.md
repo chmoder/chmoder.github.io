@@ -1,6 +1,7 @@
 # Contracting and Consulting Services
 
 * Website Maintenance
+* Mobile Application Development
 * Web Application Development
 * Web Service (API) Design and Development
 * Data Mining
