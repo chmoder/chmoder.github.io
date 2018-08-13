@@ -4,3 +4,6 @@ description:
 logo: /assets/img/logo.png
 show_downloads: false
 google_analytics: UA-11374708-2
+
+plugins:
+  - jekyll-sitemap
