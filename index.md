@@ -10,7 +10,7 @@ I am currently living in Lincoln Nebraska working as a Software Engineer.  I hav
 
 I graduated from the University of Nebraska at Omaha Peter Kiewit Institute with a Bachelors in Computer Science with an emphasis on Internet Systems and Parallel Computation.  In my spare time I mastered HTTP standards and exposing them as web services.  I worked for the university in student enrollment services as a web developer migrating all our sites from a windows stack to a LAMP stack with our custom MVC environment.  My senior year I participated in an independent study about Combinatorial Algorithms on GPUs.
 
-For the next six years I worked at CSG Actuarial as their Principal Software Engineer.  Where I designed and developed web services and web/mobile applications to get, maintain, and expose health care information.  That high level task involved designing and developing multiple kinds of databases, cloud services, machine learning services, DevOps applications, and leading a team.
+For the next six years I worked at CSG Actuarial as their Principal Software Engineer.  Where I designed and developed web services and web/mobile applications to get, maintain, and expose health care information.  That high level task involved designing and developing multiple kinds of databases, cloud services, machine learning services, DevOps applications leading a team, and defining long term technical vision.
 
 Now I work at an embedded consultants firm.  IoT projects have been a hobby of mine for several years and now I get to make my hobby my full time passion.  I am involved with developing systems and services for management of IoT devices, embedded device programming, building custom OS images, and delivering hardware and software packages to customers.
 
