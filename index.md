@@ -12,7 +12,7 @@ I graduated from the University of Nebraska at Omaha Peter Kiewit Institute with
 
 For the next six years I worked at CSG Actuarial as their Principal Software Engineer.  Where I designed and developed web services and web/mobile applications to get, maintain, and expose health care information.  That high level task involved designing and developing multiple kinds of databases, cloud services, machine learning services, DevOps applications leading a team, and defining long term technical vision.
 
-Now I work at an embedded consultants firm called Signetik.  IoT projects have been a hobby of mine for several years and now I get to make my hobby my full time passion.  I am involved with developing scalable systems and services for management of IoT devices, embedded device programming, Linux drivers, building custom OS images, and delivering hardware and software packages to customers.
+Now I work at an embedded consulting firm called Signetik.  IoT projects have been a hobby of mine for several years and now I get to make my hobby my full time passion.  I am involved with developing scalable systems and services for management of IoT devices, embedded device programming, Linux drivers, building custom OS images, and delivering hardware and software packages to customers.
 
 I am a goal oriented entrepreneur type working on several ideas; if you have ideas or skills to help reduce development time the get products to market get in touch with me on the social network of your choice!  If you have a project or website you need help with check out my services page.
 
