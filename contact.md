@@ -8,3 +8,4 @@ layout: default
 * [Twitter](http://www.twitter.com/chmoder)
 * [Stack Overflow](http://stackoverflow.com/cv/chmoder)
 * [GitHub](https://github.com/chmoder)
+* [dev.to](https://dev.to/chmoder)
