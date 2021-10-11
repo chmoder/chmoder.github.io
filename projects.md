@@ -5,6 +5,8 @@
 * [http://www.hayneedle.com/](http://www.hayneedle.com/)
 * [http://csgactuarial.com/](http://csgactuarial.com/)
 * [https://www.freemedicarereport.com/](https://www.freemedicarereport.com/)
+* [https://criterion.dev/](https://criterion.dev/)
+* [https://coinpurse.app/](https://coinpurse.app/)
 
 ### SDKs
 * [Universal Payments](http://www.aciworldwide.com/universal-payments.aspx)
