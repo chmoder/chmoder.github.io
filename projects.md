@@ -4,7 +4,7 @@
 * [http://www.unomaha.edu/](http://www.unomaha.edu/)
 * [http://www.hayneedle.com/](http://www.hayneedle.com/)
 * [http://csgactuarial.com/](http://csgactuarial.com/)
-* [https://www.freemedicarereport.com/](https://www.freemedicarereport.com/)
+* [https://api.csgactuarial.com/](https://api.csgactuarial.com/)
 * [https://criterion.dev/](https://criterion.dev/)
 * [https://coinpurse.app/](https://coinpurse.app/)
 
