@@ -3,8 +3,8 @@
 List in no particular order and certainly not exhaustive:
 
 * Music
+* Coffee
 * Running
 * Lifting
-* Coffee
-* Wine
+* Cooking
 * Comedy
