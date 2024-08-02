@@ -10,6 +10,8 @@ I am currently living in Omaha Nebraska working as a Software Engineer.  I have 
 
 I graduated from the University of Nebraska at Omaha Peter Kiewit Institute with a Bachelors in Computer Science with an emphasis on Internet Systems and Parallel Computation.  In my spare time I mastered HTTP standards and exposing them as web services.  I worked for the university in student enrollment services as a web developer migrating all our sites from a windows stack to a LAMP stack with our custom MVC environment.  My senior year I participated in an independent study about Combinatorial Algorithms on GPUs.
 
-I am a goal oriented entrepreneur type working on several ideas; if you have ideas or skills to help reduce development time the get products to market get in touch with me on the social network of your choice!  If you have a project or website you need help with check out my services page.
+I am a polyglot and consider myself well rounded with experience in embedded, machine learning, data ETL, SQL, docker, kubernetes, infrastructure as a service, cloud solutions, web services/back end development, and more.  My front end skills have been neglected so lately I have been improving my front end experience by learning the latest tools and techniques to make me more effective as a "full stack" engineer.
+
+I love meeting new people and hearing their stories so feel free to contact me on linked in.
 
 Thanks for reading!
