@@ -16,3 +16,6 @@
 
 ### APIs
 * [Healthcare API’s](https://csgapi.appspot.com/)
+
+### AI Budget App
+* [Cently](https://cently.ai)
