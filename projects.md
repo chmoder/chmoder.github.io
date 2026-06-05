@@ -13,7 +13,6 @@
 * [CSG API Docs](https://csgapi.docs.apiary.io/)
 * [Life.Church](https://www.life.church/)
 * [Insurance Toolkits](https://www.landing.insurancetoolkits.com/)
-* [Insurance Toolkits CRM](https://insurancetoolkits.com/signup)
 * [SHAYK](https://shayk.com/)
 
 ### SDKs
